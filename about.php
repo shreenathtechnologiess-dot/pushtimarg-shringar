@@ -7,7 +7,7 @@
     <div>
       <h1 class="text-3xl md:text-4xl font-bold text-deepgreen">About Pushtimarg Shringar</h1>
       <p class="mt-4 text-darkgray leading-relaxed">
-        Hum <strong>Pushtimarg parampara</strong> me Thakur ji ke vastra aur shringar ka kaam karte hain. 
+        Hum <strong>Pushtimarg paramparke chahhne walew </strong> me Thakur ji ke vastra aur shringar ka kaam karte hain. 
         Har piece me parampara, bhakti aur premium quality ka dhyaan rakha jata hai.
       </p>
       <p class="mt-4 text-darkgray leading-relaxed">
